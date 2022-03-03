@@ -1,0 +1,42 @@
+
+*{
+    margin: auto;
+}
+.wrapper{
+    height: 600px;
+    width: 1089px;
+    background-color: green;
+    text-align: center;
+}
+header{
+    height: 200px;
+    width: 100%;
+    background-color: greenyellow;
+}
+nav{
+    height: 400px;
+    width: 20%;
+    background-color: aquamarine;
+    float: left;
+}
+.content{
+    height: 400px;
+    width: 80%;
+    background-color: pink;
+    float: left;
+}
+.content section{
+    height: 45%;
+    width: auto;
+    background-color: rgb(233, 229, 10);
+    float: bottom;
+    margin: 10px 20px 10px 10px;
+}
+.content aside{
+    height: 45%;
+    width: auto;
+    background-color: rgb(22, 114, 71);
+    float: bottom;
+    margin: 10px 20px 10px 10px;
+}
+
